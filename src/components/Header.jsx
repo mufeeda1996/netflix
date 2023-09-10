@@ -6,7 +6,7 @@ function Header() {
         <Wrapper>
         <div className="appHeader">
           <div className="headerLeft">
-            <h1>ReactFlix</h1>
+            <h1>ReactFlix2</h1>
           </div>
           <div className="searchBox">
             <input className="searchField" type="search" />
